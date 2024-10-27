@@ -1,19 +1,14 @@
-# BC1: Wonderful Wines of the World 
 
-**Problem type:** Customer Segmentation
+## Project Overview
 
-**Submission date:** 01-March-2021 | 11.59pm
-
-## General Context
-
-Finding new customers is vital in every industry. The process for finding new
-customers begins by learning as much as possible from the existing customers.
-Understanding current customers allow organizations to identify groups of
+Finding new customers is vital in every industry. The process of finding new
+customers begin by learning as much as possible from the existing customers.
+Understanding current customers allows organizations to identify groups of
 customers that have different product interests, different market
-participation, or different response to marketing efforts.
+participation, or different responses to marketing efforts.
 
-Market segmentation, the process of identifying customers’ groups, makes use
-of geographic, demographic, psychographic, and behavioral characteristics of
+Market segmentation, the process of identifying customer’ groups, makes use
+of geographic, demographic, psychographic, and behavioural characteristics of
 customers. By understanding the differences between the different segments,
 organizations can make better strategic choices about opportunities, product
 definition, positioning, promotions, pricing, and target marketing.
@@ -25,10 +20,10 @@ small, unique wineries around the world and brings their wines to its
 customers. Its mission is to delight its customers with well-made, unique, and
 interesting wines that would never travel far beyond their points of origin.
 
-WWW sells wines through catalogs and a web site, and ten small stores in major
+WWW sells wines through catalogs and a website, and ten small stores in major
 cities around the USA. Customers can purchase at the stores, by telephone
-(after looking at the catalog), or on the web site. Several hundred selections
-are available in each new catalog, sent every 6 weeks.
+(after looking at the catalogue), or on the website. Several hundred selections
+are available in each new catalogue, sent every 6 weeks.
 
 Through aggressive promotion in wine and food magazines, WWW now has 350,000
 customers in its database. Most customers are highly involved in wine,
@@ -37,15 +32,15 @@ wine. WWW sometimes offers wine accessories as well – wine racks, cork
 extractors, etc.
 
 WWW is trying to make use of the database it started about 4 years ago. So
-far, it has simply mass-marketed everything. All customers get the catalog,
+far, it has simply mass-marketed everything. All customers get the catalogue,
 and there are no loyalty programs or attempts to identify target markets for
 cross-selling opportunities. Now, WWW wants to “get smart” about its database,
-and start differentiating customers, and developing more focused programs.
+start differentiating customers, and develop more focused programs.
 
 WWW has provided a sample of 10,000 customers from its active database. These
 are all customers who have purchased something from WWW in the past 18 months
 (after 18 months with no purchase, a person is eliminated from the active
-database). It was these 20,000 randomly-selected people who were sent the test
+database). It was these 20,000 randomly selected people who were sent the test
 promotion for the silver-plated cork extractor.
 
 ## Metadata
